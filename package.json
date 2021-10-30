@@ -1,0 +1,42 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "latest",
+    "axios": "latest",
+    "body-parser": "latest",
+    "chart.js": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "js-cookie": "latest",
+    "mongoose": "latest",
+    "next": "latest",
+    "next-auth": "latest",
+    "node-fetch": "latest",
+    "particles.js": "latest",
+    "prop-types": "^15.7.2",
+    "pusher": "latest",
+    "pusher-js": "latest",
+    "qs": "latest",
+    "react": "latest",
+    "react-chartjs-2": "latest",
+    "react-dom": "latest",
+    "react-particles-js": "latest",
+    "serverless-mysql": "latest",
+    "sql-template-strings": "latest",
+    "three": "latest",
+    "vanta": "latest"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.1"
+  }
+}
